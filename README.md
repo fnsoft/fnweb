@@ -1,37 +1,9 @@
-## 天津蜂鸟软件技术有限公司
+## 一家提供小微企业管理解决方案的专业公司
+欢迎来到天津蜂鸟软件技术有限公司网站，我公司致力于提供小微企业管理软件解决方案。
 
-You can use the [editor on GitHub](https://github.com/fnsoft/fnweb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 快速响应
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+快速提供解决方案，快速编制应用软件，快速实施
 
-### Markdown
+### 针对企业实际情况提出解决方案
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fnsoft/fnweb/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
